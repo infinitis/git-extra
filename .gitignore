@@ -1,0 +1,17 @@
+# autoconf/automake
+Makefile
+*.in
+*.in~
+aclocal.m4
+autom4te.cache
+autoscan.log
+build-aux
+config.log
+config.status
+configure
+configure.scan
+include/config.h
+include/stamp-h1
+src/.deps
+src/.dirstamp
+test/unit/.deps

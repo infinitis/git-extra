@@ -1,0 +1,14 @@
+{
+  "name": "git-extra-integration-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
