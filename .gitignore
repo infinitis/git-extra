@@ -15,3 +15,10 @@ include/stamp-h1
 src/.deps
 src/.dirstamp
 test/unit/.deps
+
+# build objects
+*.o
+*.log
+*.trs
+*.tests
+git-ex
