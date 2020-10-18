@@ -1,2 +1,8 @@
 Later:
 - [ ] man entry
+- [ ] create more templates
+	- [ ] system for filling in templates quickly/automatically
+
+Consider:
+- [ ] integrating into git directly
+- [ ] publish on git mailing list
