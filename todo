@@ -1,4 +1,6 @@
 Later:
+- [ ] make cat missing error message more clear
+	- [ ] currently shows: "fatal: Not a valid object name ??"
 - [ ] man entry
 - [ ] create more templates
 	- [ ] system for filling in templates quickly/automatically
