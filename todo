@@ -1,4 +1,5 @@
 Later:
+- [ ] add '-h' option -> shortcut to --help
 - [ ] make cat missing error message more clear
 	- [ ] currently shows: "fatal: Not a valid object name ??"
 - [ ] man entry
